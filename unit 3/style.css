@@ -1,0 +1,45 @@
+
+.stripes {
+	background-image: url("assets/stripes.png");
+	height: 13px;
+	padding: 0;
+	margin-top: 0px;
+
+}
+
+.content {
+	margin-left: 50px;
+}
+
+body {
+	background-image: url("assets/background.jpg");
+	background-size: cover;
+	margin: 0;
+
+}
+
+p {
+	margin-top: 300px;
+
+}
+
+h2 {
+	font-family: "Helvetica";
+	font-size: 26px;
+	font-weight: normal;
+
+}
+
+hr {
+	width: 50px;
+	height: 2px;
+	margin-left: 0;
+	border-color: FireBrick;
+	background-color: FireBrick;
+	color: FireBrick;
+
+}
+
+a {
+	
+}
