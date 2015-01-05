@@ -1,0 +1,50 @@
+h1
+{
+	font-family: 'Droid Serif', serif;
+	font-size: larger;
+	font-style: bold ;
+	color: black;
+	margin-left: 100px;
+	margin-top: 450px;
+}
+
+
+h2
+{
+	font-family: 'Droid Serif', serif;
+	margin-left: 100px;
+	font-style: semi bold;
+	color: black;
+}
+
+
+h3
+{
+	font-family: 'Droid Serif', serif;
+	margin-left: 100px;
+	margin-right: 600px;
+	font-style: Thin 100;
+	color: black;
+	
+}
+
+body {
+	background-image: url("assets/olives-257928_1920.jpg");
+	background-size: cover;
+	margin: 0;
+
+}
+
+p {
+	margin-top: 300px;
+
+}
+
+h2 {
+	font-family: Roboto Slab', serif;
+	font-size: 26px;
+	font-weight: normal;
+
+}
+
+
