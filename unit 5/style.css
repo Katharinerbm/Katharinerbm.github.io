@@ -1,0 +1,43 @@
+body {
+	background-image: url("africa.jpg");
+	background-size: cover;
+	margin: 0;
+	font-family: 'Droid Serif', serif;
+
+}
+
+
+h1
+{
+	font-size: larger;
+	font-style: bold ;
+	color: black;
+	margin-left: 100px;
+	margin-top: 450px;
+}
+
+
+h2
+{
+	margin-left: 100px;
+	font-style: semi bold;
+	color: black;
+}
+
+
+h3
+{
+	margin-left: 100px;
+	margin-right: 600px;
+	font-style: Thin 100;
+	color: black;
+	
+}
+
+
+p {
+	margin-top: 300px;
+
+}
+
+
